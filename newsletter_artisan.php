@@ -3,7 +3,7 @@
     /**
      * Template Name: Newletter Artisan
      * Description: A wordpress template for Newsletter Artisan only. Please do not use it for any other purposes.
-     */
+      */
 
     /* helper classes */
     class view {

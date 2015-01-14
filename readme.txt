@@ -4,7 +4,7 @@ Donate link: http://dstefaniak.co.uk
 Tags: newsletter, campaign, adestra
 Requires at least: 4.0.0
 Tested up to: 4.0
-Stable tag: 0.8.9
+Stable tag: 0.8.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,8 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+= 0.8.9 =
+files rearangement for the purpose of automatic updates
 
 = 0.8.7 =
 Hardcoded files paths fixed as requested.

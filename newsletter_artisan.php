@@ -2,7 +2,7 @@
    /*
    *Plugin Name: Newsletter Artisan
    *Description: Newsletter Artisan is a dynamic newsletter builder. It was created to allow you to build a showcase of newsletters with dynamic content.
-   *Version: 0.8.10
+   *Version: 0.8.11
    *Author: Damian Stefaniak
    *Author URI: http://www.dcthomson.co.uk and htttp://dstefaniak.co.uk
    */

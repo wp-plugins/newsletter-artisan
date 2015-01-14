@@ -9,7 +9,7 @@ Newsletter developers can use Newsletter Artisan to create new themes inside of 
 ## Add Newsletter Artisan plugin to Wordpress
 
 1. move 'newsletter_artisan' folder to 'src/wp-content/plugins/' directory of your project
-2. move 'newsletter_artisan.php' file to 'src/wp-content/themes/[your theme name]/' directory of your project
+2. move 'theme_file/newsletter_artisan.php' file to 'src/wp-content/themes/[your theme name]/' directory of your project
 3. create a blank page in Wordpress management panel - select 'Pages' and than 'Add New'
 4. select 'Newsletter Artisan' as the template used for the page and publish the page
 5. activate the plugin in the 'Plugins' section of Wordpress

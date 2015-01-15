@@ -59,11 +59,10 @@
 		$dir = plugin_dir_path(__FILE__);
 		$o = get_option('newsletter_artisan', array());
 
-		if (empty($o["plugin_dir"])) {
-			$o["plugin_dir"] = $dir;
-
-			update_option('newsletter_artisan', $o);
-		}
+		//if (empty($o["plugin_dir"])) {
+		$o["plugin_dir"] = $dir;
+		update_option('newsletter_artisan', $o);
+		//}
 	}
 
 	function na_init() {

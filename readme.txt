@@ -1,14 +1,10 @@
 === Newsletter Artisan ===
 Contributors: Damian Stefaniak
 Donate link: http://dstefaniak.co.uk
-Tags: newsletter, campaign, adestra
+Tags: newsletter, campaign, email
 Requires at least: 4.0.0
-<<<<<<< HEAD
-Tested up to: 4.0
-=======
-Tested up to: 4.1
->>>>>>> 8c64c5e0321ce004d97751d34cc54304fa3ffe78
-Stable tag: 0.8.13
+Tested up to: 4.2.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -1268,8 +1264,4 @@ screen{.wrapper .btn a{font-family:Roboto,Tahoma,sans-serif !important}}.wrapper
 
   <img style="border-left-width: 0 !important;border-top-width: 0 !important;border-bottom-width: 0 !important;border-right-width: 0 !important;-ms-interpolation-mode: bicubic;height: 1px !important;width: 1px !important;margin-top: 0 !important;margin-bottom: 0 !important;margin-left: 0 !important;margin-right: 0 !important;padding-top: 0 !important;padding-bottom: 0 !important;padding-left: 0 !important;padding-right: 0 !important" src="https://createsend1.com/t/t-o-jitdiyt-l/o.gif" width="1" height="1" border="0" alt="">
 
-<<<<<<< HEAD
 </body></html>`
-=======
-</body></html>`
->>>>>>> 8c64c5e0321ce004d97751d34cc54304fa3ffe78

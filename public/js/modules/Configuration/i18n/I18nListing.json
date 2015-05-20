@@ -1,0 +1,32 @@
+{
+	"eng": {
+		"na": "Newsletter Artisan",
+		"postCodeHelp-expl": "Below is the list of properties available in the Post Mustache Template - property: value. You want to use properties to populate Mustache template. Remember to place the property you want to use in double curly braces (e.g.: {{post_title}}).",
+		"postCodeHelp-id": "ID: 165",
+		"postCodeHelp-thumb": "post_thumb: http://link_to_image.png",
+		"postCodeHelp-excerpt": "post_excerpt: this is part of the article",
+		"postCodeHelp-author": "post_author: 1",
+		"postCodeHelp-link": "http://localhost/websites/wordpress_test/wordpress/?p=165",
+		"postCodeHelp-post_date": "post_date: 2015-04-17 00:19:40",
+		"postCodeHelp-post_date_gmt": "post_date_gmt: 2015-04-17 00:19:40",
+		"postCodeHelp-post_content": "post_content: This is the content of the post",
+		"postCodeHelp-title": "post_title: This is the title",
+		"postCodeHelp-status": "post_status: publish",
+		"postCodeHelp-comment-status": "comment_status: open",
+		"postCodeHelp-ping_status": "ping_status: open",
+		"postCodeHelp-comment-status": "post_name: this-is-the-title",
+		"postCodeHelp-post_name": "pinged: post_modified:2015-04-17 00:19:40",
+		"postCodeHelp-post_modified_gmt": "post_modified_gmt: 2015-04-17 00:19:40",
+		"postCodeHelp-post_content_filtered": "post_content_filtered: ''",
+		"postCodeHelp-post_parent": "post_parent: 0",
+		"postCodeHelp-guid": "guid: http://localhost/websites/wordpress_test/wordpress/?p=165 - (that is the link to the article)",
+		"postCodeHelp-menu_order": "menu_order: 0",
+		"postCodeHelp-post_type": "post_type: post",
+		"postCodeHelp-post_mime_type": "post_mime_type: ''",
+		"postCodeHelp-comment_count": "comment_count: 0",
+		"postCodeHelp-filter": "filter: raw",
+		"postCodeHelp-number": "number: 3",
+
+		"closinginformation": "Your Newsletter page should be available now: "
+	}
+}

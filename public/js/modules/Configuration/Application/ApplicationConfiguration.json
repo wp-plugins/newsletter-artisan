@@ -1,0 +1,25 @@
+{
+	"Application": {
+		"Theme": {
+			"Name": {
+				"MaxLength" : "25",
+				"MinLength" : "5"
+			}
+		},
+		"CodeEditor": {
+			"init": {
+				"mode": "mustache", 
+				"theme": "neo",
+				"lineNumbers": true
+			},
+			"previewModes": {
+				"open": "open",
+				"hidden": "hidden",
+				"default": "default"
+			}
+		},
+		"Post": {
+			"excerpt_length": "200"
+		}
+	}
+}

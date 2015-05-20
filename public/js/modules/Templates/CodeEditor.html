@@ -1,0 +1,29 @@
+
+	<div class="back"></div>
+	<div class="codeeditWrap childWrapper">
+		<div class="close">
+			<span class="fa-stack fa-lg">
+			  <i class="fa fa-square-o fa-stack-2x"></i>
+			  <i class="fa fa-times fa-2"></i>
+			</span>
+		</div>
+		<header>
+			<div class="settings">
+				<button class="button-transparent mb1 help" title="Help."><i class="fa fa-question-circle"></i><span>Help</span></button>
+				<button class="button-transparent mb1 preview" title="Fast preview your snippet view."><i class="fa fa-newspaper-o"></i><span>Preview</span></button>
+				<button class="button-transparent mb1 check" title="Run code syntax checker."><i class="fa fa-file-code-o"></i><span>Check</span></button>
+				<button class="button-transparent mb1 add" title="Add the snippet to the theme."><i class="fa fa-pencil-square-o"></i><span>Add</span></button>
+			</div>
+			<div class="title"><i class="fa fa-code"></i><span>Edit Code</span></div>
+		</header>
+		<div class="flex" data-mode="default">
+			<div class="codeEditor flex-auto">
+				<textarea id="code" name="code">{{ currentCode }}</textarea>
+			</div>
+			<div class="codePreview hidden quickInfo flex-auto">
+				<div class="snippetHTML"></div>
+			</div>
+
+		</div>
+
+	</div>

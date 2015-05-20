@@ -14,11 +14,14 @@ Newsletter developers can use Newsletter Artisan to create new themes inside of 
 4. select 'Newsletter Artisan' as the template used for the page and publish the page
 5. activate the plugin in the 'Plugins' section of Wordpress
 
-Done. After following those steps you should see 'Artisan' section inside of the Wordpress panel. You can start creating your own themes.
+Done. After following those steps you should see 'Artisan' section inside of the Wordpress panel. You can start creating your own newsletters.
 
 You can start from coping the code from 'nesletter_artisan/template_snippets/'. You should have basic theme added.
 
 ## More information
 
+For more documentation go to project's bitbucket or github wiki page.
 
-For more documentation go to project's github wiki page.
+## Wordpress plugin page
+
+The plugin is available on wordpress.org website. Please see https://wordpress.org/plugins/newsletter-artisan/.

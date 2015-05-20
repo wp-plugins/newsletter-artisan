@@ -19,6 +19,11 @@ class ThemesManagement {
 
     public function getActiveTheme () {
         $o = get_option('newsletter_artisan');
+
+        if (!isSet($o['themes']) ) {
+            $o['themes'] = array();
+        }
+
         $themes = $o['themes'];
 
         if (isset($themes)) {

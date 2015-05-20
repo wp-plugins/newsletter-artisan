@@ -28,7 +28,9 @@
 
             //exception for old themes only
             if (!isSet($this->active_theme_template["theme_name"])) {
-                echo "You are using old theme from Newsletter Artisan version < 1.0. Please update your theme by editing theme code and posts code.";
+                echo "There should be your newsletter visible here. There are two posibilities why you see this message.<br>";
+                echo "* 1. Check if you have any themes created and activated.<br>";
+                echo "* 2. You may be using old theme from Newsletter Artisan version < 1.0. Please update your theme by editing the currently active theme code and posts code.";
                 die();
             }
 

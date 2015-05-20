@@ -1,10 +1,10 @@
 === Newsletter Artisan ===
 Contributors: Damian Stefaniak
 Donate link: http://dstefaniak.co.uk
-Tags: newsletter, campaign, adestra
+Tags: newsletter, campaign, email
 Requires at least: 4.0.0
-Tested up to: 4.0
-Stable tag: 0.8.13
+Tested up to: 4.2.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,13 +32,13 @@ You can start from coping the code from 'nesletter_artisan/template_snippets/'. 
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= How to update the Newletter Artisan plugin? =
 
-An answer to that question.
+The plugin should be updated automatically using Wordpress plugins udpates. You should see a notification about the release of a new version in the admin panel. Next all you have to do is push the updated button. The plugin and wordpress should do all the magic for you.
 
-= What about foo bar? =
+= How can I test if my newsletter is working on different clients? =
 
-Answer to foo bar dilemma.
+You can use external software to do that. Litmus is a very good example of it - https://litmus.com/email-testing. It's expeccially useful if you are planning to support mobile clients.
 
 == Screenshots ==
 
